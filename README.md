@@ -7,10 +7,12 @@ this is a edit of esx_shops i take no credit for the codes used  :) ***ENJOY***
 
 ***NOTE***
 you may need to add your own items as i use 
-***	('foodstall', 'chips', 5),
+	('foodstall', 'chips', 5),
 	('foodstall', 'coffe', 10),
 	('foodstall', 'cocacola', 8),
 	('foodstall', 'donut', 8),
 	('foodstall', 'bread', 15),
-	('foodstall', 'water', 12),***
+	('foodstall', 'water', 12),
+***this can be changed in the sql just need to change the item name to what you have in your items sql*** :) 
+
   
